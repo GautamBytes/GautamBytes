@@ -22,7 +22,7 @@ I'm passionate about leveraging technology to solve real-world problems. Here ar
 
 Each project is designed to enhance user engagement and promote efficient solutions to complex problems.
 
-## 💬 Ask me about Tech, 🐍, C++, Web Dev, Gen AI, Fashion, Astronomy, Books, WWII, Music etc
+## 💬 Ask me about Tech, 🐍, C++, Web Dev, Gen AI, Astronomy, Books, Music etc
 
 ## 🔗 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gautam-manchandani-17888b259)
