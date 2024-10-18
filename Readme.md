@@ -6,11 +6,17 @@ I'm a second-year Computer Science student at BITS Pilani, passionate about codi
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GautamBytes&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GautamBytes&theme=radical&layout=compact)
 
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=GautamBytes&theme=radical)](https://github.com/GautamBytes)
+
 ## 🌟 Profile Highlights
 - **Profile Views:** ![Profile Views](https://badges.pufler.dev/visits/GautamBytes/GautamBytes)
 - **Repositories:** ![Public Repos](https://badges.pufler.dev/repos/GautamBytes)
 - **Stars:** ![Stars](https://img.shields.io/github/stars/GautamBytes?style=social)
 - **Hacktoberfest 2024:** Participated and successfully merged **4 PRs**! 🎉
+
+## 🏅 Holopin Badges
+[![Holopin Badges](https://holopin.me/gautambytes)](https://holopin.io/@gautambytes)
 
 ## 🚀 Current Projects
 I'm passionate about leveraging technology to solve real-world problems. Here are some of my key projects:
