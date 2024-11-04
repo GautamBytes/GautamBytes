@@ -62,7 +62,6 @@ Each project is designed to enhance user engagement and promote efficient soluti
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
@@ -85,6 +84,7 @@ Additional Skills:
 * Streamlit
 * Google Colab
 * Command Line Interface
+* Flask
 
 ## 📊 Contribution Graph
 [![Gautam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GautamBytes&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
