@@ -16,7 +16,7 @@ I'm a second-year Computer Science student at BITS Pilani, passionate about codi
 
 ## 📈 GitHub Activity & Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GautamBytes&theme=radical" alt="GitHub Streak" />
+ <img src="https://streak-stats.demolab.com/?user=GautamBytes&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
