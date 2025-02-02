@@ -6,7 +6,7 @@
   </h1>
 </div>
 
-I'm a second-year Computer Science student at BITS Pilani, passionate about coding, problem-solving, and turning creative ideas into reality through technology. Currently serving as a **Product Manager Intern at Build Fast with AI**, where I'm gaining hands-on experience in AI product development and management. 🚀
+I'm a second-year Computer Science student at BITS Pilani, passionate about coding, problem-solving, and turning creative ideas into reality through technology. Previously Served as a **Product Manager Intern at Build Fast with AI**, where I gained hands-on experience in AI product development and management. 🚀
 
 ---
 
