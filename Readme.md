@@ -6,14 +6,16 @@
   </h1>
 </div>
 
-I'm a second-year Computer Science student at BITS Pilani, passionate about coding, problem-solving, and turning creative ideas into reality through technology. Previously Served as a **Product Manager Intern at Build Fast with AI**, where I gained hands-on experience in AI product development and management. 🚀
+I'm a second-year Computer Science student at BITS Pilani, passionate about building solutions that combine cutting-edge AI with decentralized technologies. Previously served as a **Product Manager Intern at Build Fast with AI**, now exploring the intersection of machine learning and blockchain systems. 🚀
 
 ---
 
 ## 🎯 What Drives Me
-- Building AI-powered solutions that solve real-world problems
-- Contributing to open-source projects and fostering community collaboration
-- Developing user-centric applications with a focus on accessibility and innovation
+- Building intelligent systems that solve real-world problems
+- Contributing to open-source projects in both AI and blockchain spaces
+- Developing user-centric applications with emerging technologies
+- Exploring decentralized systems for transparent, secure solutions
+- Bridging the gap between AI innovation and blockchain infrastructure
 
 ---
 
@@ -55,16 +57,33 @@ I'm a second-year Computer Science student at BITS Pilani, passionate about codi
 ---
 
 ## 🚀 Current Projects
-I'm passionate about leveraging technology to solve real-world problems. Here are some of my key projects:
-- **AI-Powered Medical Chatbot**: Developed a personalized healthcare assistant supporting 16 specializations using natural language processing and machine learning algorithms to provide quick, accurate medical information and preliminary diagnoses.
-- **AI Education Platform (Talaash AI)**: Created an intelligent tutoring system for competitive exam preparation, featuring personalized learning paths, adaptive quizzes, and real-time performance analytics.
-- **Vehicle Detection Tool**: Implemented a real-time vehicle analysis system using YOLOv10, capable of detecting and classifying vehicles in various traffic scenarios with high accuracy.
-- **Contract Risk Assessor**: Built an NLP-based tool to streamline contract reviews by automatically identifying potential risks and highlighting key clauses, significantly reducing manual review time.
-- **Gesture Recognition App**: Developed an interactive math learning application using computer vision to recognize hand gestures, making math education more engaging and accessible for students with diverse learning needs.
+**AI Innovations:**
+- **AI-Powered Medical Chatbot**: Developed a personalized healthcare assistant supporting 16 specializations using NLP and ML algorithms
+- **Talaash AI**: Intelligent tutoring system for competitive exam preparation with adaptive learning paths
+- **Vehicle Detection Tool**: Real-time vehicle analysis system using YOLOv10
+- **Contract Risk Assessor**: NLP-based contract review automation tool
+
+**Blockchain Explorations:**
+- ⏳ **TimeCapsule Smart Contract**  
+  _Solidity | Ethereum | Web3.js_  
+  Developed an Ethereum-based smart contract that enables creation of time-locked messages. Features include:  
+  • Time-based message encryption/decryption  
+  • Configurable lock periods with countdown timers  
+  • Transparent capsule details tracking on-chain  
+  • Gas-efficient storage using Merkle proofs
+
+- 🔗 **Bitcoin Timestamp Verifier**  
+  _React | Blockstream API | Blockchain_  
+  Created a web app for document verification on Bitcoin blockchain:  
+  • SHA-256 hash generation for file verification  
+  • Blockchain timestamp confirmation via Blockstream API  
+  • User-friendly verification status dashboard  
+  • Historical verification record storage
 
 ---
 
-## 💬 Ask me about Tech, 🐍, C++, Web Dev, Gen AI, Astronomy, Books, Music, etc.
+## 💬 Ask Me About
+Tech, 🐍 Python, C++, Web3 Development, Gen AI, Blockchain Fundamentals, Open Source Contributions, Astronomy, etc.
 
 ---
 
@@ -88,6 +107,9 @@ I'm passionate about leveraging technology to solve real-world problems. Here ar
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/bitcoin/bitcoin-icon.svg" alt="bitcoin" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="solidity" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google cloud" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
@@ -98,6 +120,13 @@ I'm passionate about leveraging technology to solve real-world problems. Here ar
 
 ---
 
+## 🌱 Open Source Philosophy
+- Enthusiastic to contribute to open-source projects in AI and blockchain domains
+- Strong believer in transparent, community-driven development
+- Actively learning blockchain fundamentals to contribute meaningfully
+- Passionate about collaborative problem-solving in open-source ecosystems
+  
+---
 ## 📊 Contribution Graph
 <p align="center">
   <a href="https://github.com/GautamBytes">
