@@ -34,7 +34,7 @@ I'm a second-year Computer Science student at BITS Pilani, passionate about buil
 ## 🏆 Achievements & GitHub Trophies
 - 🥈 **Runner-Up at IIT Madras & NICMAR(ICCRIP 2024) Hackathon** - Built an NLP-based tool to streamline contract reviews by automatically identifying potential risks and highlighting key clauses, significantly reducing manual review time.
 - 🎨 **2nd Runner-Up at IIT Delhi(Sandook Money)** - Designed a prototype for a digital gold savings platform.
-- 🎉 **Hacktoberfest 2024** - Contributed 27+ PRs with multiple successfully merged contributions!
+- 🎉 **Hacktoberfest 2024** - Contributed 10+ PRs with multiple successfully merged contributions!
 
 <p align="center">
   <a href="https://github.com/GautamBytes">
