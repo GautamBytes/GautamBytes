@@ -21,12 +21,12 @@ I'm a second-year Computer Science student at BITS Pilani, passionate about buil
 
 ## 📈 GitHub Activity & Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GautamBytes&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GautamBytes&theme=radical&hide_border=true&cache_seconds=1800" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GautamBytes&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GautamBytes&theme=radical&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GautamBytes&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GautamBytes&theme=radical&layout=compact&hide_border=true&cache_seconds=1800" alt="Top Languages" />
 </p>
 
 ---
@@ -34,19 +34,19 @@ I'm a second-year Computer Science student at BITS Pilani, passionate about buil
 ## 🏆 Achievements & GitHub Trophies
 - 🥈 **Runner-Up at IIT Madras & NICMAR(ICCRIP 2024) Hackathon** - Built an NLP-based tool to streamline contract reviews by automatically identifying potential risks and highlighting key clauses, significantly reducing manual review time.
 - 🎨 **2nd Runner-Up at IIT Delhi(Sandook Money)** - Designed a prototype for a digital gold savings platform.
-- 🎉 **Hacktoberfest 2024** - Contributed 23 PRs with 10 successfully merged!
+- 🎉 **Hacktoberfest 2024** - Contributed 27+ PRs with multiple successfully merged contributions!
 
 <p align="center">
   <a href="https://github.com/GautamBytes">
-    <img src="https://github-profile-trophy.vercel.app/?username=GautamBytes&theme=radical" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=GautamBytes&theme=radical&no-frame=true&cache_seconds=1800" alt="GitHub Trophies" />
   </a>
 </p>
 
 ---
 
 ## 🌟 Profile Highlights
-- **Profile Views:** ![Profile Views](https://badges.pufler.dev/visits/GautamBytes/GautamBytes)
-- **Repositories:** ![Public Repos](https://badges.pufler.dev/repos/GautamBytes)
+- **Profile Views:** ![Profile Views](https://komarev.com/ghpvc/?username=GautamBytes&color=brightgreen&style=flat-square)
+- **Followers:** ![Followers](https://img.shields.io/github/followers/GautamBytes?style=social)
 - **Stars:** ![Stars](https://img.shields.io/github/stars/GautamBytes?style=social)
 
 ---
@@ -130,7 +130,7 @@ Tech, 🐍 Python, C++, Web3 Development, Gen AI, Blockchain Fundamentals, Open 
 ## 📊 Contribution Graph
 <p align="center">
   <a href="https://github.com/GautamBytes">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=GautamBytes&theme=radical" alt="GitHub Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=GautamBytes&theme=radical&hide_border=true&cache_seconds=1800" alt="GitHub Activity Graph" />
   </a>
 </p>
 
