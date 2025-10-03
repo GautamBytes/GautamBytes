@@ -6,7 +6,7 @@
   </h1>
 </div>
 
-I'm a second-year Computer Science student at BITS Pilani, passionate about building solutions that combine cutting-edge AI with decentralized technologies. Previously served as a **Product Manager Intern at Build Fast with AI**, now exploring the intersection of machine learning and blockchain systems. 🚀
+I'm a third-year Computer Science student at BITS Pilani, passionate about building solutions that combine cutting-edge AI with decentralized technologies. Previously served as a **Product Manager Intern at Build Fast with AI**, now exploring the intersection of machine learning and blockchain systems. 🚀
 
 ---
 
