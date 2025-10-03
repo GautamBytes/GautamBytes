@@ -10,6 +10,29 @@ I'm a third-year Computer Science student at BITS Pilani, passionate about build
 
 ---
 
+## 💼 Experience
+
+**Dev Fellow** | *Bitshala* · Part-time  
+📅 Oct 2025 - Present · 1 mo | 📍 India (Remote)
+
+**Open Source Developer** | *Shopstr* · Internship  
+📅 Sep 2025 - Present · 2 mos | 📍 Seattle, WA (Remote)
+
+**Mentee @Shopstr** | *Summer of Bitcoin* · Internship  
+📅 May 2025 - Aug 2025 · 4 mos | 📍 San Francisco, CA (Remote)
+- Spearheaded a payment escrow system for Shopstr, reducing manual payment processing by 40%
+- Utilized P2PK time-locked Cashu tokens to secure funds and decrease transaction-related support tickets by 30%
+- Designed and implemented a new UI for dispute resolution and an automated processor for streamlined order fulfillment, decreasing transaction-related support tickets by 25%
+- **Technologies:** Next.js, TypeScript, Nostr, Cashu, Lightning Network
+
+**Product Manager** | *Build Fast with AI* · Internship  
+📅 Oct 2024 - Dec 2024 · 3 mos | 📍 Bengaluru, Karnataka, India (Remote)
+- Developed GTM Strategy for Educhain, a platform empowering teachers with generative AI for Classroom preps, increasing adoption among educational institutions by 20%
+- Optimized user-experience of Educhain by integrating AI-driven features, improving teachers' engagement & retention by 15%
+- Conducted Market research for Educhain, positioning it as a unique AI tool for content generation, boosting signups by 25%
+
+---
+
 ## 🎯 What Drives Me
 - Building intelligent systems that solve real-world problems
 - Contributing to open-source projects in both AI and blockchain spaces
