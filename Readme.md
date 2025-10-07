@@ -42,6 +42,12 @@ I'm a third-year Computer Science student at BITS Pilani, passionate about build
 
 ---
 
+## 📚 Currently Learning
+**Solana Development** | *Ackee School of Solana - Season 8*  
+Diving deep into Solana blockchain development, learning to build high-performance decentralized applications on one of the fastest blockchain platforms.
+
+---
+
 ## 📈 GitHub Activity & Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GautamBytes&theme=radical&hide_border=true&cache_seconds=1800" alt="GitHub Streak" />
