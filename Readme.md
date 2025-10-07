@@ -10,6 +10,12 @@ I'm a third-year Computer Science student at BITS Pilani, passionate about build
 
 ---
 
+## 📚 Currently Learning
+**Solana Development** | *Ackee School of Solana - Season 8*  
+Diving deep into Solana blockchain development, learning to build high-performance decentralized applications on one of the fastest blockchain platforms.
+
+---
+
 ## 💼 Experience
 
 **Dev Fellow** | *Bitshala* · Part-time  
