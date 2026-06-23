@@ -12,6 +12,20 @@ I'm a third-year Computer Science student at BITS Pilani, passionate about build
 
 ## 💼 Experience
 
+**Upcoming SWE Intern** | *Better Auth* · Internship  
+📅 Upcoming | 📍 Remote
+
+**Maintainer** | *Shopstr* · Part-time  
+📅 Jun 2026 - Present | 📍 Washington, United States (Remote)
+- Maintainer of Shopstr market - https://github.com/shopstr-eng
+
+**Mentor** | *Summer of Bitcoin* · Part-time  
+📅 Apr 2026 - Present · 3 mos | 📍 United States (Remote)
+- Mentoring mentees at Shopstr organization
+
+**PLDG Fellow** | *Protocol Labs* · Internship  
+📅 Jan 2026 - Mar 2026 · 3 mos | 📍 Remote
+
 **Dev Fellow** | *Bitshala* · Part-time  
 📅 Oct 2025 - Present | 📍 India (Remote)
 
@@ -162,5 +176,4 @@ Tech, 🐍 Python, C++, Web3 Development, Gen AI, Blockchain Fundamentals, Open 
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=GautamBytes&theme=radical&hide_border=true&cache_seconds=1800" alt="GitHub Activity Graph" />
   </a>
 </p>
-
 
