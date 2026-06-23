@@ -61,6 +61,10 @@ I'm a third-year Computer Science student at BITS Pilani, building at the inters
 - 🥈 **Runner-Up at IIT Madras & NICMAR(ICCRIP 2024) Hackathon** - Built an NLP contract-review tool to flag risks and key clauses.
 - 🎨 **2nd Runner-Up at IIT Delhi(Sandook Money)** - Designed a digital gold savings prototype.
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GautamBytes&theme=radical" alt="GitHub Profile Summary" />
+</p>
+
 ---
 
 ## 🌟 Profile Highlights
