@@ -126,12 +126,3 @@ Tech, 🐍 Python, TypeScript, Web3 Development, Gen AI, Blockchain Fundamentals
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="sql" width="40" height="40"/>
 </p>
-
----
-
-## 📊 Contribution Graph
-<p align="center">
-  <a href="https://github.com/GautamBytes">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=GautamBytes&theme=radical&hide_border=true&cache_seconds=1800" alt="GitHub Activity Graph" />
-  </a>
-</p>
