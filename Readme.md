@@ -13,10 +13,10 @@ I'm a third-year Computer Science student at BITS Pilani, passionate about build
 ## 💼 Experience
 
 **Dev Fellow** | *Bitshala* · Part-time  
-📅 Oct 2025 - Present · 1 mo | 📍 India (Remote)
+📅 Oct 2025 - Present | 📍 India (Remote)
 
 **Open Source Developer** | *Shopstr* · Internship  
-📅 Sep 2025 - Present · 2 mos | 📍 Seattle, WA (Remote)
+📅 Sep 2025 - Present | 📍 Seattle, WA (Remote)
 
 **Mentee @Shopstr** | *Summer of Bitcoin* · Internship  
 📅 May 2025 - Aug 2025 · 4 mos | 📍 San Francisco, CA (Remote)
