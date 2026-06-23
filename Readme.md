@@ -62,7 +62,7 @@ I'm a third-year Computer Science student at BITS Pilani, building at the inters
 - 🎨 **2nd Runner-Up at IIT Delhi(Sandook Money)** - Designed a digital gold savings prototype.
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GautamBytes&theme=radical" alt="GitHub Profile Summary" />
+  <img src="https://gh-trophy.cdnsoft.net/?username=GautamBytes&theme=flat&row=2&column=3" alt="GitHub Trophies" />
 </p>
 
 ---
