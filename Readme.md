@@ -28,23 +28,19 @@ I'm a third-year Computer Science student at BITS Pilani, building at the inters
 
 **Product Manager** | *Build Fast with AI* · Internship  
 📅 Oct 2024 - Dec 2024 · 3 mos | 📍 Bengaluru, Karnataka, India (Remote)
-- Led GTM research and positioning for Educhain, a generative AI platform for classroom prep and teacher workflows.
-- Improved product adoption, engagement, and signups through user research, AI feature planning, and UX optimization.
+- Worked on GTM, user research, and UX improvements for Educhain, a generative AI platform for classroom prep and teacher workflows.
 
 ---
 
-## 🎯 What Drives Me
-- Building intelligent systems that solve real-world problems
-- Contributing to open-source projects in both AI and blockchain spaces
-- Developing user-centric applications with emerging technologies
-- Exploring decentralized systems for transparent, secure solutions
-- Bridging the gap between AI innovation and blockchain infrastructure
+## 🎯 What I Build Around
+- Open-source infrastructure and product engineering, mostly around TypeScript, Python, auth, and developer tools.
+- Bitcoin/Nostr/Cashu work through Shopstr, Summer of Bitcoin, and Bitshala, with a focus on payments and marketplace UX.
+- AI products that solve practical problems, from classroom tooling to healthcare/chatbot and document-analysis projects.
 
 ---
 
-## 📚 Currently Learning
-**Solana Development** | *Ackee School of Solana - Season 8*  
-Diving deep into Solana blockchain development, learning to build high-performance decentralized applications on one of the fastest blockchain platforms.
+## 🎓 Education & Learning
+**BITS Pilani** · Computer Science | **Ackee School of Solana - Season 8** · Solana Development
 
 ---
 
@@ -61,9 +57,8 @@ Diving deep into Solana blockchain development, learning to build high-performan
 ---
 
 ## 🏆 Achievements & GitHub Trophies
-- 🥈 **Runner-Up at IIT Madras & NICMAR(ICCRIP 2024) Hackathon** - Built an NLP-based tool to streamline contract reviews by automatically identifying potential risks and highlighting key clauses, significantly reducing manual review time.
-- 🎨 **2nd Runner-Up at IIT Delhi(Sandook Money)** - Designed a prototype for a digital gold savings platform.
-- 🎉 **Hacktoberfest 2024** - Contributed 10+ PRs with multiple successfully merged contributions!
+- 🥈 **Runner-Up at IIT Madras & NICMAR(ICCRIP 2024) Hackathon** - Built an NLP contract-review tool to flag risks and key clauses.
+- 🎨 **2nd Runner-Up at IIT Delhi(Sandook Money)** - Designed a digital gold savings prototype.
 
 <p align="center">
   <a href="https://github.com/GautamBytes">
@@ -112,7 +107,7 @@ Diving deep into Solana blockchain development, learning to build high-performan
 ---
 
 ## 💬 Ask Me About
-Tech, 🐍 Python, C++, Web3 Development, Gen AI, Blockchain Fundamentals, Open Source Contributions, Astronomy, etc.
+Tech, 🐍 Python, TypeScript, Web3 Development, Gen AI, Blockchain Fundamentals, Open Source Contributions, etc.
 
 ---
 
@@ -149,13 +144,6 @@ Tech, 🐍 Python, C++, Web3 Development, Gen AI, Blockchain Fundamentals, Open 
 
 ---
 
-## 🌱 Open Source Philosophy
-- Enthusiastic to contribute to open-source projects in AI and blockchain domains
-- Strong believer in transparent, community-driven development
-- Actively learning blockchain fundamentals to contribute meaningfully
-- Passionate about collaborative problem-solving in open-source ecosystems
-  
----
 ## 📊 Contribution Graph
 <p align="center">
   <a href="https://github.com/GautamBytes">
