@@ -40,7 +40,8 @@ I'm a third-year Computer Science student at BITS Pilani, building at the inters
 ---
 
 ## 🎓 Education & Learning
-**BITS Pilani** · Computer Science | **Ackee School of Solana - Season 8** · Solana Development
+**BITS Pilani** · Computer Science (Jul 2023 - Jul 2026)  
+**Ackee School of Solana - Season 8** · Solana Development, graduated Dec 2025 after a 2-month program (Oct 2025 - Dec 2025)
 
 ---
 
@@ -56,15 +57,9 @@ I'm a third-year Computer Science student at BITS Pilani, building at the inters
 
 ---
 
-## 🏆 Achievements & GitHub Trophies
+## 🏆 Achievements
 - 🥈 **Runner-Up at IIT Madras & NICMAR(ICCRIP 2024) Hackathon** - Built an NLP contract-review tool to flag risks and key clauses.
 - 🎨 **2nd Runner-Up at IIT Delhi(Sandook Money)** - Designed a digital gold savings prototype.
-
-<p align="center">
-  <a href="https://github.com/GautamBytes">
-    <img src="https://github-profile-trophy.vercel.app/?username=GautamBytes&theme=radical&no-frame=true&cache_seconds=1800" alt="GitHub Trophies" />
-  </a>
-</p>
 
 ---
 
@@ -81,28 +76,14 @@ I'm a third-year Computer Science student at BITS Pilani, building at the inters
 ---
 
 ## 🚀 Current Projects
-**AI Innovations:**
-- **AI-Powered Medical Chatbot**: Developed a personalized healthcare assistant supporting 16 specializations using NLP and ML algorithms
-- **Talaash AI**: Intelligent tutoring system for competitive exam preparation with adaptive learning paths
-- **Vehicle Detection Tool**: Real-time vehicle analysis system using YOLOv10
-- **Contract Risk Assessor**: NLP-based contract review automation tool
+- **[Math Gesture Prediction Tool](https://github.com/GautamBytes/Math_Gesture_Prediction_tool)** · Python, MediaPipe/cvzone, Streamlit, Gemini  
+  A webcam-based math solver where you draw with hand gestures, clear/send with finger signs, and Gemini solves the expression.
 
-**Blockchain Explorations:**
-- ⏳ **TimeCapsule Smart Contract**  
-  _Solidity | Ethereum | Web3.js_  
-  Developed an Ethereum-based smart contract that enables creation of time-locked messages. Features include:  
-  • Time-based message encryption/decryption  
-  • Configurable lock periods with countdown timers  
-  • Transparent capsule details tracking on-chain  
-  • Gas-efficient storage using Merkle proofs
+- **[Medecro AI Personalized Platform](https://github.com/GautamBytes/Medecro_AI_PERSONALIZED_PLATFORM)** · Streamlit, Node.js, SQLite, Google Translate API  
+  A medical assistant with specialization-based chat, symptom checking, voice I/O, multilingual support, reminders, document upload, and chat export.
 
-- 🔗 **Bitcoin Timestamp Verifier**  
-  _React | Blockstream API | Blockchain_  
-  Created a web app for document verification on Bitcoin blockchain:  
-  • SHA-256 hash generation for file verification  
-  • Blockchain timestamp confirmation via Blockstream API  
-  • User-friendly verification status dashboard  
-  • Historical verification record storage
+- **[Clause-Crafters / Contract Risk Assessor](https://github.com/GautamBytes/IITM_HACKATHON)** · Python, Streamlit, FastAPI  
+  A document Q&A and contract-review app that reads PDFs and helps surface relevant clauses, risks, and answers from uploaded docs.
 
 ---
 
