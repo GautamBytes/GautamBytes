@@ -6,7 +6,7 @@
   </h1>
 </div>
 
-I'm a third-year Computer Science student at BITS Pilani, passionate about building solutions that combine cutting-edge AI with decentralized technologies. Previously served as a **Product Manager Intern at Build Fast with AI**, now exploring the intersection of machine learning and blockchain systems. 🚀
+I'm a third-year Computer Science student at BITS Pilani, building at the intersection of AI, open source, and decentralized technologies. Currently growing through the Shopstr ecosystem and upcoming as a **SWE Intern at Better Auth**. 🚀
 
 ---
 
@@ -15,35 +15,21 @@ I'm a third-year Computer Science student at BITS Pilani, passionate about build
 **Upcoming SWE Intern** | *Better Auth* · Internship  
 📅 Upcoming | 📍 Remote
 
-**Maintainer** | *Shopstr* · Part-time  
-📅 Jun 2026 - Present | 📍 Washington, United States (Remote)
-- Maintainer of Shopstr market - https://github.com/shopstr-eng
-
-**Mentor** | *Summer of Bitcoin* · Part-time  
-📅 Apr 2026 - Present · 3 mos | 📍 United States (Remote)
-- Mentoring mentees at Shopstr organization
-
 **PLDG Fellow** | *Protocol Labs* · Internship  
 📅 Jan 2026 - Mar 2026 · 3 mos | 📍 Remote
 
 **Dev Fellow** | *Bitshala* · Part-time  
 📅 Oct 2025 - Present | 📍 India (Remote)
 
-**Open Source Developer** | *Shopstr* · Internship  
-📅 Sep 2025 - Present | 📍 Seattle, WA (Remote)
-
-**Mentee @Shopstr** | *Summer of Bitcoin* · Internship  
-📅 May 2025 - Aug 2025 · 4 mos | 📍 San Francisco, CA (Remote)
-- Spearheaded a payment escrow system for Shopstr, reducing manual payment processing by 40%
-- Utilized P2PK time-locked Cashu tokens to secure funds and decrease transaction-related support tickets by 30%
-- Designed and implemented a new UI for dispute resolution and an automated processor for streamlined order fulfillment, decreasing transaction-related support tickets by 25%
-- **Technologies:** Next.js, TypeScript, Nostr, Cashu, Lightning Network
+**Shopstr Career Progression** | *Summer of Bitcoin & Shopstr* · Remote  
+📅 May 2025 - Present | 📍 Remote
+- **Mentee @Shopstr** · Summer of Bitcoin (May 2025 - Aug 2025) → **Open Source Developer** · Shopstr (Sep 2025 - May 2026)
+- **Mentor @Shopstr** · Summer of Bitcoin (May 2026 - Aug 2026) → **Maintainer** · Shopstr (Jun 2026 - Present), building and maintaining marketplace, payments, Nostr/Cashu flows, and open-source work across https://github.com/shopstr-eng
 
 **Product Manager** | *Build Fast with AI* · Internship  
 📅 Oct 2024 - Dec 2024 · 3 mos | 📍 Bengaluru, Karnataka, India (Remote)
-- Developed GTM Strategy for Educhain, a platform empowering teachers with generative AI for Classroom preps, increasing adoption among educational institutions by 20%
-- Optimized user-experience of Educhain by integrating AI-driven features, improving teachers' engagement & retention by 15%
-- Conducted Market research for Educhain, positioning it as a unique AI tool for content generation, boosting signups by 25%
+- Led GTM research and positioning for Educhain, a generative AI platform for classroom prep and teacher workflows.
+- Improved product adoption, engagement, and signups through user research, AI feature planning, and UX optimization.
 
 ---
 
@@ -176,4 +162,3 @@ Tech, 🐍 Python, C++, Web3 Development, Gen AI, Blockchain Fundamentals, Open 
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=GautamBytes&theme=radical&hide_border=true&cache_seconds=1800" alt="GitHub Activity Graph" />
   </a>
 </p>
-
