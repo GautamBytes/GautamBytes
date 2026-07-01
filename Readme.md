@@ -6,29 +6,15 @@
   </h1>
 </div>
 
-I'm a third-year Computer Science student at BITS Pilani, building at the intersection of AI, open source, and decentralized technologies. Currently growing through the Shopstr ecosystem and upcoming as a **SWE Intern at Better Auth**. 🚀
+I'm a third-year Computer Science student at BITS Pilani, building at the intersection of AI, open source, and decentralized technologies. Currently maintainer at **Shopstr Markets**.
 
 ---
 
-## 💼 Experience
+## Experience
 
-**Upcoming SWE Intern** | *Better Auth* · Internship  
-📅 Upcoming | 📍 Remote
+**Maintainer** -> **Shopstr Markets**
 
-**PLDG Fellow** | *Protocol Labs* · Internship  
-📅 Jan 2026 - Mar 2026 · 3 mos | 📍 Remote
-
-**Dev Fellow** | *Bitshala* · Part-time  
-📅 Oct 2025 - Present | 📍 India (Remote)
-
-**Shopstr Career Progression** | *Summer of Bitcoin & Shopstr* · Remote  
-📅 May 2025 - Present | 📍 Remote
-- **Mentee @Shopstr** · Summer of Bitcoin (May 2025 - Aug 2025) → **Open Source Developer** · Shopstr (Sep 2025 - May 2026)
-- **Mentor @Shopstr** · Summer of Bitcoin (May 2026 - Aug 2026) → **Maintainer** · Shopstr (Jun 2026 - Present), building and maintaining marketplace, payments, Nostr/Cashu flows, and open-source work across https://github.com/shopstr-eng
-
-**Product Manager** | *Build Fast with AI* · Internship  
-📅 Oct 2024 - Dec 2024 · 3 mos | 📍 Bengaluru, Karnataka, India (Remote)
-- Worked on GTM, user research, and UX improvements for Educhain, a generative AI platform for classroom prep and teacher workflows.
+For career progression and detailed experience, see my portfolio: [gautambytes.in](https://www.gautambytes.in/)
 
 ---
 
